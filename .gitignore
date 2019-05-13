@@ -1,6 +1,13 @@
-# Add the entire Grav site to GitHub
-# https://getgrav.org/blog/developing-with-github-part-2
-composer.lock
+
+# Composer
+.composer
+vendor/*
+!*/vendor/*
+
+# Sass
+.sass-cache
+
+# Grav Specific
 backup/*
 !backup/.*
 cache/*
@@ -11,7 +18,30 @@ logs/*
 !logs/.*
 images/*
 !images/.*
-user/data/*
-!user/data/.*
 user/accounts/*
 !user/accounts/.*
+user/data/*
+!user/data/.*
+user/plugins/*
+!user/plugins/.*
+user/themes/*
+!user/themes/.*
+user/localhost/config/security.yaml
+user/config/security.yaml
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+# phpstorm
+.idea/*
+
+# testing stuff
+tests/_output/*
+tests/_support/_generated/*
+tests/cache/*
+tests/error.log
+system/templates/testing/*
