@@ -1,0 +1,11 @@
+state: enabled
+email: maxime.hersand@gmail.com
+fullname: 'Maxime Hersand'
+title: Administrateur
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$OgZozwuy9nD2aAst2c9qm.rKWwV.6udqI4wA.m3Cmr2KqjoNxcHYy
