@@ -1,5 +1,6 @@
 ---
 title: Départ
+media_order: "en-route.jpg,chaussures.jpg,courbe-denivele.png,depart.jpg,dernier-reglage.jpg"
 date: "13-05-2019 09:00"
 taxonomy:
     category:
