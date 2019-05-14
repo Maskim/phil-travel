@@ -21,11 +21,11 @@ subtitle: "Premier jour, entre exitation et appréhension"
 
 Arrivé sur le parking du tournaboup au pied de la station de ski de barège aux alentours de 9h30.
 
-Dernières vérifications avant le départ. Je me chausse de mes meilleures amis ou ennemis du mois à venir.
+Dernières vérifications avant le départ. Je me chausse de mes meilleures amies ou ennemies du mois à venir.
 
 ![Chaussures](chaussures.jpg)
 
-J'enfile mon coupe vent, puis me charge de mon précieux sac, 13 kilos environs. J'ajuste les sangles et me prépare à partir :
+J'enfile mon coupe vent, puis me charge de mon précieux sac, 13 kilos environ. J'ajuste les sangles et me prépare à partir :
 
 ![Derniers réglage](dernier-reglage.jpg)
 
@@ -37,9 +37,22 @@ J'enfile mon coupe vent, puis me charge de mon précieux sac, 13 kilos environs.
 
 ## Première journée et déjà première neige
 
-Première étape difficile, ascension de _ 1000m de dénivelé au programme_.
+Première étape difficile, ascension de _ 1200m de dénivelé au programme_.
 
-Je suis parti du ** parking du tournaboup** en direction du **col de Madaméte** (_ 2508m d'altitude _) pour ensuite me diriger vers le **lac d'Aubert** ou je décide de passer la nuit. Bien que le temps fût clément, la neige était au rendez-vous. Je n'ai pas trouvé d'endroit ou planter la tente pour la nuit, mais j'ai eu la chance de trouver une cabane dans laquelle m'abriter et faire la première nuit de mon aventure.
+Je suis parti du ** parking du tournaboup** en direction du **col de Madaméte** (_ 2508m d'altitude _) pour ensuite me diriger vers le **lac d'Aubert**.
+
+Bien que le temps fût clément, la neige était au rendez-vous. À 2000m d'altitude, je rencontre environ 1m50 de neige... Ma progression est alors difficile et usante. Je n'ai pas de repère et je suis obligé de me diriger à la boussole.
+
+![Selfie](selfie.jpg)
+![Madamete](madamete.jpg)
+![Montagne](montagne-1.jpg)
+![Montagne](montagne-2.jpg)
+
+## Pour la nuit
+
+Mon programme initial se retrouve donc perturbé. Je décide de m'arrêter au lac d'Aubert. Je n'ai pas trouvé d'endroit ou planter la tente pour dormir, mais j'ai eu la chance de trouver un refuge non gardé à côté du lac dans lequel m'abriter et faire la première nuit de mon aventure. **Bonne surprise**, la literie est de bonne qualité et je passe la nuit avec 3 randonneurs à ski. Je ferais donc une première nuit très réparatrice !
+
+![refuge](refuge.jpg)
 
 ### Informations sur l'itinéraire
 
