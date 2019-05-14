@@ -54,6 +54,8 @@ Mon programme initial se retrouve donc perturbé. Je décide de m'arrêter au la
 
 ![refuge](refuge.jpg)
 
+## Point Technique
+
 ### Informations sur l'itinéraire
 
 -   ** Distance ** : 10.06 km
