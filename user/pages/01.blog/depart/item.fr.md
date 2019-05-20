@@ -1,5 +1,9 @@
 ---
 title: Départ
+summary:
+    enabled: true
+    format: short
+    size: 100
 media_order: "en-route.jpg,chaussures.jpg,courbe-denivele.png,depart.jpg,dernier-reglage.jpg"
 date: "13-05-2019 09:00"
 taxonomy:

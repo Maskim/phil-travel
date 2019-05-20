@@ -1,5 +1,9 @@
 ---
 title: Deuxième jour
+summary:
+    enabled: true
+    format: short
+    size: 100
 media_order: ""
 date: "14-05-2019 09:00"
 taxonomy:
@@ -14,6 +18,7 @@ blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
+continue_link: true
 subtitle: "Objectif : relier Saint Lary"
 ---
 
