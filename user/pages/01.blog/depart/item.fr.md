@@ -14,6 +14,7 @@ blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
+continue_link: true
 subtitle: "Premier jour, entre exitation et appréhension"
 ---
 
